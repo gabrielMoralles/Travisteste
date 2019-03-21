@@ -9,4 +9,4 @@ def test_soma():
 
 def test_mult():
 
-    assert mult(2,2)==5
+    assert mult(2,2)==4
